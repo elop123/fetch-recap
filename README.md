@@ -4,6 +4,10 @@ baseret på dette API: https://fakestoreapi.com/
 
 Husk at opsætte din SCSS compiler til at compile din CSS fil det rigtige sted ;)
 
+Du må selv bestemme hvilken Async struktur du vil bruge..
+.then() eller Promise-await.
+
+
 
 ## opgave 1
    øvelse 1:
