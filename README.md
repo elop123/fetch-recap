@@ -2,6 +2,9 @@
 Fetch og scss øvelser
 baseret på dette API: https://fakestoreapi.com/
 
+Husk at opsætte din SCSS compiler til at compile din CSS fil det rigtige sted ;)
+
+
 ## opgave 1
    øvelse 1:
    skriv en funktion der kan hente alle produkter fra API'et
@@ -15,12 +18,14 @@ baseret på dette API: https://fakestoreapi.com/
    øvelse 4:
    tilføj en feature til din funktion fra øvelse 3, så du kan sende en maksimal mængde af produkter du vil have tilbage.  eks. getProductByCategory(din kategori her,antal produkter max)
 
+
 ## Opgave 2
    Øvelse 1:
    skriv en funktion der kan vise produkter i elementet med id "productList" du skal vise alt info om produktet på et "card"
 
    Øvlese 2:
    skriv en funktion der kan vise alle kategorier fra API'et, som en menu, hvor du kan klikke på et kategori navn, og der hentes produkter fra kategorien, og den bruger funktionen fra øvelse 1 til at vise produkterne i dommen.
+
 
 ## Opgave 3
    Øvelse 1:
