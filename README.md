@@ -28,7 +28,7 @@ Du må selv bestemme hvilken Async struktur du vil bruge..
    skriv en funktion der kan vise produkter i elementet med id "productList" du skal vise alt info om produktet på et "card"
 
    Øvlese 2:
-   skriv en funktion der kan vise alle kategorier fra API'et, som en menu, hvor du kan klikke på et kategori navn, og der hentes produkter fra kategorien, og den bruger funktionen fra øvelse 1 til at vise produkterne i dommen.
+   skriv en funktion der kan vise alle kategorier fra API'et, som en menu i nav elementet med id "navigation", hvor du kan klikke på et kategori navn, og der hentes produkter fra kategorien, og den bruger funktionen fra øvelse 1 til at vise produkterne i dommen.
 
 
 ## Opgave 3
