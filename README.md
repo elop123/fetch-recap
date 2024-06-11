@@ -1,5 +1,6 @@
 # fetch-recap
 Fetch og scss øvelser
+baseret på dette API: https://fakestoreapi.com/
 
 ## opgave 1
    øvelse 1:
