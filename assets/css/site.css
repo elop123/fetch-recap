@@ -1,0 +1,20 @@
+fieldset{
+    margin: auto;
+    margin-top: 0.5rem;
+    width: 330px;
+    height: auto;
+}
+
+#navigation{
+    display: flex;
+    justify-content: center; 
+}
+#navigation ul li{
+    border: 1px solid green;
+    border-radius: 20px;
+    list-style-type: none;
+    padding: 0px 10px;
+    margin: 6px;
+    background-color: lightgreen;
+    cursor: pointer;
+}
